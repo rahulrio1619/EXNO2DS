@@ -23,7 +23,15 @@ STEP 7: Use cross tabulation method to quantitatively analyze the relationship b
 STEP 8: Use heatmap method of representation to show relationships between two variables, one plotted on each axis.
 
 ## CODING AND OUTPUT
-        <<INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS>>
+![DS exp 2 ipynb - Colab_page-0001](https://github.com/user-attachments/assets/9c4ac863-92a5-41fe-a242-f55e752f5b5c)
+![DS exp 2 ipynb - Colab_page-0002](https://github.com/user-attachments/assets/6f831d2c-a1ee-44ec-8ad6-39a2af941e4e)
+![DS exp 2 ipynb - Colab_page-0003](https://github.com/user-attachments/assets/cce7a46a-e47a-4a6f-aa3c-f473ae176a67)
+![DS exp 2 ipynb - Colab_page-0004](https://github.com/user-attachments/assets/3146be91-f447-4e00-ad5a-6d68acb026c6)
+![DS exp 2 ipynb - Colab_page-0005](https://github.com/user-attachments/assets/62cfb1a6-65ec-409a-b5e9-4792a2c061a4)
+![DS exp 2 ipynb - Colab_page-0006](https://github.com/user-attachments/assets/677451f4-8fa6-416c-ac74-eb30bc38d3f2)
+![DS exp 2 ipynb - Colab_page-0007](https://github.com/user-attachments/assets/564ea665-7cd0-4253-8aa5-d3a1e0996468)
+![DS exp 2 ipynb - Colab_page-0008](https://github.com/user-attachments/assets/80b7e4d5-0adf-4ec9-9b94-3ef271defc9e)
+
 
 # RESULT
-        <<INCLUDE YOUR RESULT HERE>>
+Thus EDA is performed on the given data set successfuly
